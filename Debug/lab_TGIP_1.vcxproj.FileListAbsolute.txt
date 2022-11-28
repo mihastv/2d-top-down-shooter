@@ -1,0 +1,6 @@
+F:\Teaching\Sem1\ACG\Lab3\Lab3\Debug\ACG_Lab3.exe
+F:\Teaching\Sem1\ACG\Lab3\Lab3\Debug\ACG_Lab3.pdb
+H:\2022-2023 teaching\ACG\Lab3\Lab3\Debug\ACG_Lab3.exe
+H:\2022-2023 teaching\ACG\Lab3\Lab3\Debug\ACG_Lab3.pdb
+C:\Users\stava\Desktop\university\an 3 sem 1\ACG\Lab3\Debug\ACG_Lab3.exe
+C:\Users\stava\Desktop\university\an 3 sem 1\ACG\asteroid shooter\Debug\ACG_Lab3.exe
